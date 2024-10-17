@@ -1,3 +1,18 @@
 img {
     width: 700px;
 }
+
+h1 {
+    background-color: goldenrod;
+}
+.whatever {
+    color: blue;
+}
+
+#Website {
+    color: goldenrod;
+}
+#Work {
+    color: goldenrod
+    ;
+}
