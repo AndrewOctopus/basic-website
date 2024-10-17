@@ -25,3 +25,6 @@ h1 {
 #k {
     color: aliceblue;
 }
+.rounded {
+    border-radius: 10;
+} 
