@@ -26,5 +26,17 @@ h1 {
     color: aliceblue;
 }
 .rounded {
-    border-radius: 10;
+    border-radius: 10px;
 } 
+.rotate1 {
+    rotate: 90deg;
+}
+.rotate2 {
+    rotate: 45deg;
+}
+.rotate3 {
+    rotate: 135deg;
+}
+.rotate4 {
+    rotate: 180deg;
+}
